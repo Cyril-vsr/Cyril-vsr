@@ -18,7 +18,12 @@
 <h3></h3>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-vsr"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-vsr&exclude_repo=architecture_service"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-vsr&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=6&exclude_repo=architecture_service"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-vsr&layout=compact&hide=Roff" />
 </picture>
