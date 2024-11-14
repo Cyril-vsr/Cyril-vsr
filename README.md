@@ -18,11 +18,11 @@
 <h3></h3>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-vsr&exclude_repo=Architecture_Service"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-vsr"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-vsr&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=6&exclude_repo=Architecture_Service"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-vsr&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=6"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-vsr&layout=compact&hide=Roff" />
